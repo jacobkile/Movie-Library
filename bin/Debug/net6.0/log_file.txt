@@ -1,0 +1,5 @@
+2023-09-26 11:37:36.3384|INFO|Program|informational
+2023-09-26 11:37:36.3384|WARN|Program|warning
+2023-09-26 11:37:36.3384|ERROR|Program|error
+2023-09-26 11:37:36.3384|FATAL|Program|fatal error
+2023-09-26 11:44:11.4925|INFO|Program|Inserted the movie "John Wick" at 9/26/2023 11:44:11 AM
